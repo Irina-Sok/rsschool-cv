@@ -4,7 +4,7 @@
   * Location: Tuapse,Russia
   * Phone: +7989 7563336
   * mail: sok-irina1990@mail.ru
-  * GitHub: irina-sok
+  * GitHub: Irina-Sok
 
 ## Education
 Kuban State University
